@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![explorer graphlinq io_block_0x4cb5e48a10877f1767cd9612f11bbab3325ec55cbb1df42b0ded665bd04fd6e9](https://github.com/damirsch08/fleet/assets/97800728/0742fd09-cdee-4972-aa16-0c6a8c7b0de2)This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
@@ -12,7 +12,8 @@ yarn dev
 pnpm dev
 # or
 bun dev
-```
+```![localhost_3000_](https://github.com/damirsch08/fleet/assets/97800728/761032a4-7891-4072-ae37-8036cb05d9ae)
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
